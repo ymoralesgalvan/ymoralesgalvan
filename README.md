@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @ymorales-galvan
-- I'm a general web development intern. 
-- 👀 I’m interested in learning about fullstack development.
+👋 Hello everyone
+=
+- I'm Yuliana Morales. I am a student studying computer science with a concentration in software engineering
+- I'm a general web development intern at Digital Nest
+- 👀 I’m interested in learning about fullstack development
+- 🤝I'm looking forward to collaborate on projects
+- 🌱 I'm currently learning machine learning with scikit-learn in Python
+  
 
