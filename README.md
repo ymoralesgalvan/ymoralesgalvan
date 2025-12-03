@@ -11,3 +11,6 @@ I have contributed to diverse projects that have made a real impact, from web ap
 ## CURRENTLY
 I am currently expanding my skills in data analysis to find insights and make data driven decisions! 
 I am seeking opportunities to grow as a developer, collaborate on meaningful projects and continue broadening my technical expertise. 
+
+## PROJECT HIGHLIGHTS
+* Developing an event ticketing system 
