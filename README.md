@@ -1,6 +1,8 @@
+https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyamgzb3ZidHpid3l6ZWNwYzB5bWh0eDQ4c21sZDEzZTV6ZDltN3kyMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EqtEGtIFozqIE/giphy.gif
 ## ABOUT ME 
 
 My name is Yuliana, I am passionate about developing meaningful software. I thrive on learning new technologies and applying creative problem solving skills to real world challenges. 
+
 #### WHAT I WORK WITH
 - Data and ML: Python, TensorFlow, Keras, Pandas
 - Backend: Node.js, Express, Flask
