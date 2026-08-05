@@ -1,4 +1,4 @@
-![About Me GIF](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyamgzb3ZidHpidHpid3l6ZWNwYzB5bWh0eDQ4c21sZDEzZTV6ZDltN3kyMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EqtEGtIFozqIE/giphy.gif)
+![About Me GIF](https://www.phy.olemiss.edu/~perera/animations/wavear.gif)
 
 ## ABOUT ME 
 
